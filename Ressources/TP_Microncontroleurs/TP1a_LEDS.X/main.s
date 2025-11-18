@@ -11,6 +11,9 @@ PSECT   code, abs
 ; Table des I/O ================================================================
 ; LED LED0 à la pin RC0
    
+   LED_PORT equ 0x20
+ 
+   
 ; Vecteur de reset =============================================================
 org     0x000
 goto init 

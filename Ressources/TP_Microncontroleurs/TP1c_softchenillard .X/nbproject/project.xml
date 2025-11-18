@@ -3,9 +3,10 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>TP1a_LEDS</name>
-            <creation-uuid>9ab5266d-58de-421e-9821-f14a4e445136</creation-uuid>
+            <name>TP1c_softchenillard</name>
+            <creation-uuid>5955162e-ac4f-4cba-a237-e64400a4b2a3</creation-uuid>
             <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>
             <confList>
@@ -14,7 +15,6 @@
                     <type>2</type>
                 </confElem>
             </confList>
-            <sourceEncoding>ISO-8859-1</sourceEncoding>
             <formatting>
                 <project-formatting-style>false</project-formatting-style>
             </formatting>
